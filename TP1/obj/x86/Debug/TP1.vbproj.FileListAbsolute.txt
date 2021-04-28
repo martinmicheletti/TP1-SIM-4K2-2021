@@ -1,0 +1,240 @@
+C:\Users\Nicky\Desktop\TP1\TP1\bin\Debug\TP1.exe
+C:\Users\Nicky\Desktop\TP1\TP1\bin\Debug\TP1.pdb
+C:\Users\Nicky\Desktop\TP1\TP1\bin\Debug\TP1.xml
+C:\Users\Nicky\Desktop\TP1\TP1\obj\x86\Debug\TP1.Form1.resources
+C:\Users\Nicky\Desktop\TP1\TP1\obj\x86\Debug\TP1.Resources.resources
+C:\Users\Nicky\Desktop\TP1\TP1\obj\x86\Debug\TP1.PUNTO_A.resources
+C:\Users\Nicky\Desktop\TP1\TP1\obj\x86\Debug\TP1.vbproj.GenerateResource.Cache
+C:\Users\Nicky\Desktop\TP1\TP1\obj\x86\Debug\TP1.exe
+C:\Users\Nicky\Desktop\TP1\TP1\obj\x86\Debug\TP1.xml
+C:\Users\Nicky\Desktop\TP1\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\Nicky\Desktop\TP1\TP1\obj\x86\Debug\TP1.PUNTOB.resources
+C:\Users\Nicky\Desktop\TP1\TP1\obj\x86\Debug\TP1.PUNTOC.resources
+D:\Facultad\Cuarto Año\Simulacion\Trabajos Practicos\TP1\TP1\obj\x86\Debug\TP1.exe
+D:\Facultad\Cuarto Año\Simulacion\Trabajos Practicos\TP1\TP1\obj\x86\Debug\TP1.xml
+D:\Facultad\Cuarto Año\Simulacion\Trabajos Practicos\TP1\TP1\obj\x86\Debug\TP1.pdb
+D:\Facultad\Cuarto Año\Simulacion\Trabajos Practicos\TP1\TP1\bin\Debug\TP1.exe
+D:\Facultad\Cuarto Año\Simulacion\Trabajos Practicos\TP1\TP1\bin\Debug\TP1.pdb
+D:\Facultad\Cuarto Año\Simulacion\Trabajos Practicos\TP1\TP1\bin\Debug\TP1.xml
+D:\Facultad\Cuarto Año\Simulacion\Trabajos Practicos\TP1\TP1\obj\x86\Debug\TP1.Form1.resources
+D:\Facultad\Cuarto Año\Simulacion\Trabajos Practicos\TP1\TP1\obj\x86\Debug\TP1.Resources.resources
+D:\Facultad\Cuarto Año\Simulacion\Trabajos Practicos\TP1\TP1\obj\x86\Debug\TP1.PUNTO_A.resources
+D:\Facultad\Cuarto Año\Simulacion\Trabajos Practicos\TP1\TP1\obj\x86\Debug\TP1.PUNTOB.resources
+D:\Facultad\Cuarto Año\Simulacion\Trabajos Practicos\TP1\TP1\obj\x86\Debug\TP1.PUNTOC.resources
+D:\Facultad\Cuarto Año\Simulacion\Trabajos Practicos\TP1\TP1\obj\x86\Debug\TP1.vbproj.GenerateResource.Cache
+C:\Users\Yvo\Downloads\TP1\TP1\TP1\obj\x86\Debug\TP1.exe
+C:\Users\Yvo\Downloads\TP1\TP1\TP1\obj\x86\Debug\TP1.xml
+C:\Users\Yvo\Downloads\TP1\TP1\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\Yvo\Downloads\TP1\TP1\TP1\obj\x86\Debug\TP1.Form1.resources
+C:\Users\Yvo\Downloads\TP1\TP1\TP1\obj\x86\Debug\TP1.Resources.resources
+C:\Users\Yvo\Downloads\TP1\TP1\TP1\obj\x86\Debug\TP1.PUNTO_A.resources
+C:\Users\Yvo\Downloads\TP1\TP1\TP1\obj\x86\Debug\TP1.PUNTOB.resources
+C:\Users\Yvo\Downloads\TP1\TP1\TP1\obj\x86\Debug\TP1.PUNTOC.resources
+C:\Users\Yvo\Downloads\TP1\TP1\TP1\obj\x86\Debug\TP1.vbproj.GenerateResource.Cache
+C:\Users\Yvo\Downloads\TP1\TP1\TP1\bin\Debug\TP1.exe
+C:\Users\Yvo\Downloads\TP1\TP1\TP1\bin\Debug\TP1.pdb
+C:\Users\Yvo\Downloads\TP1\TP1\TP1\bin\Debug\TP1.xml
+C:\Users\Yvo\Downloads\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.exe
+C:\Users\Yvo\Downloads\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.xml
+C:\Users\Yvo\Downloads\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\Yvo\Downloads\TP1VALIDADO (1)\TP1\TP1\TP1\bin\Debug\TP1.exe
+C:\Users\Yvo\Downloads\TP1VALIDADO (1)\TP1\TP1\TP1\bin\Debug\TP1.pdb
+C:\Users\Yvo\Downloads\TP1VALIDADO (1)\TP1\TP1\TP1\bin\Debug\TP1.xml
+C:\Users\Yvo\Downloads\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.Form1.resources
+C:\Users\Yvo\Downloads\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.Resources.resources
+C:\Users\Yvo\Downloads\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.PUNTO_A.resources
+C:\Users\Yvo\Downloads\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.PUNTOB.resources
+C:\Users\Yvo\Downloads\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.PUNTOC.resources
+C:\Users\Yvo\Downloads\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.vbproj.GenerateResource.Cache
+E:\facultad\2016\SIMULACION\Práctico\TRABAJO 1\TP1 3.0\TP1VALIDADO (1)\TP1\TP1\TP1\bin\Debug\TP1.exe
+E:\facultad\2016\SIMULACION\Práctico\TRABAJO 1\TP1 3.0\TP1VALIDADO (1)\TP1\TP1\TP1\bin\Debug\TP1.pdb
+E:\facultad\2016\SIMULACION\Práctico\TRABAJO 1\TP1 3.0\TP1VALIDADO (1)\TP1\TP1\TP1\bin\Debug\TP1.xml
+E:\facultad\2016\SIMULACION\Práctico\TRABAJO 1\TP1 3.0\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.Form1.resources
+E:\facultad\2016\SIMULACION\Práctico\TRABAJO 1\TP1 3.0\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.Resources.resources
+E:\facultad\2016\SIMULACION\Práctico\TRABAJO 1\TP1 3.0\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.PUNTO_A.resources
+E:\facultad\2016\SIMULACION\Práctico\TRABAJO 1\TP1 3.0\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.PUNTOB.resources
+E:\facultad\2016\SIMULACION\Práctico\TRABAJO 1\TP1 3.0\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.PUNTOC.resources
+E:\facultad\2016\SIMULACION\Práctico\TRABAJO 1\TP1 3.0\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.vbproj.GenerateResource.Cache
+E:\facultad\2016\SIMULACION\Práctico\TRABAJO 1\TP1 3.0\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.exe
+E:\facultad\2016\SIMULACION\Práctico\TRABAJO 1\TP1 3.0\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.xml
+E:\facultad\2016\SIMULACION\Práctico\TRABAJO 1\TP1 3.0\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\Lisandro\Desktop\Simulacion\TP1 4.0\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.exe
+C:\Users\Lisandro\Desktop\Simulacion\TP1 4.0\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.xml
+C:\Users\Lisandro\Desktop\Simulacion\TP1 4.0\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\Lisandro\Desktop\Simulacion\TP1 4.0\TP1VALIDADO (1)\TP1\TP1\TP1\bin\Debug\TP1.exe
+C:\Users\Lisandro\Desktop\Simulacion\TP1 4.0\TP1VALIDADO (1)\TP1\TP1\TP1\bin\Debug\TP1.pdb
+C:\Users\Lisandro\Desktop\Simulacion\TP1 4.0\TP1VALIDADO (1)\TP1\TP1\TP1\bin\Debug\TP1.xml
+C:\Users\Lisandro\Desktop\Simulacion\TP1 4.0\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.vbprojResolveAssemblyReference.cache
+C:\Users\Lisandro\Desktop\Simulacion\TP1 4.0\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.Form1.resources
+C:\Users\Lisandro\Desktop\Simulacion\TP1 4.0\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.Resources.resources
+C:\Users\Lisandro\Desktop\Simulacion\TP1 4.0\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.PUNTO_A.resources
+C:\Users\Lisandro\Desktop\Simulacion\TP1 4.0\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.PUNTOB.resources
+C:\Users\Lisandro\Desktop\Simulacion\TP1 4.0\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.PUNTOC.resources
+C:\Users\Lisandro\Desktop\Simulacion\TP1 4.0\TP1VALIDADO (1)\TP1\TP1\TP1\obj\x86\Debug\TP1.vbproj.GenerateResource.Cache
+C:\Users\Lisandro\Desktop\Simulacion\TP1 5.0\TP1\obj\x86\Debug\TP1.exe
+C:\Users\Lisandro\Desktop\Simulacion\TP1 5.0\TP1\obj\x86\Debug\TP1.xml
+C:\Users\Lisandro\Desktop\Simulacion\TP1 5.0\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\Lisandro\Desktop\Simulacion\TP1 5.0\TP1\bin\Debug\TP1.exe
+C:\Users\Lisandro\Desktop\Simulacion\TP1 5.0\TP1\bin\Debug\TP1.pdb
+C:\Users\Lisandro\Desktop\Simulacion\TP1 5.0\TP1\bin\Debug\TP1.xml
+C:\Users\Lisandro\Desktop\Simulacion\TP1 5.0\TP1\obj\x86\Debug\TP1.vbprojResolveAssemblyReference.cache
+C:\Users\Lisandro\Desktop\Simulacion\TP1 5.0\TP1\obj\x86\Debug\TP1.Form1.resources
+C:\Users\Lisandro\Desktop\Simulacion\TP1 5.0\TP1\obj\x86\Debug\TP1.Resources.resources
+C:\Users\Lisandro\Desktop\Simulacion\TP1 5.0\TP1\obj\x86\Debug\TP1.PUNTO_A.resources
+C:\Users\Lisandro\Desktop\Simulacion\TP1 5.0\TP1\obj\x86\Debug\TP1.PUNTOB.resources
+C:\Users\Lisandro\Desktop\Simulacion\TP1 5.0\TP1\obj\x86\Debug\TP1.PUNTOC.resources
+C:\Users\Lisandro\Desktop\Simulacion\TP1 5.0\TP1\obj\x86\Debug\TP1.vbproj.GenerateResource.Cache
+C:\Users\Lisandro\Desktop\Simulacion\TP1 5.1\TP1\obj\x86\Debug\TP1.exe
+C:\Users\Lisandro\Desktop\Simulacion\TP1 5.1\TP1\obj\x86\Debug\TP1.xml
+C:\Users\Lisandro\Desktop\Simulacion\TP1 5.1\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\Lisandro\Desktop\Simulacion\TP1 5.1\TP1\bin\Debug\TP1.exe
+C:\Users\Lisandro\Desktop\Simulacion\TP1 5.1\TP1\bin\Debug\TP1.pdb
+C:\Users\Lisandro\Desktop\Simulacion\TP1 5.1\TP1\bin\Debug\TP1.xml
+C:\Users\Lisandro\Desktop\Simulacion\TP1 5.1\TP1\obj\x86\Debug\TP1.vbprojResolveAssemblyReference.cache
+C:\Users\Lisandro\Desktop\Simulacion\TP1 5.1\TP1\obj\x86\Debug\TP1.Form1.resources
+C:\Users\Lisandro\Desktop\Simulacion\TP1 5.1\TP1\obj\x86\Debug\TP1.Resources.resources
+C:\Users\Lisandro\Desktop\Simulacion\TP1 5.1\TP1\obj\x86\Debug\TP1.PUNTO_A.resources
+C:\Users\Lisandro\Desktop\Simulacion\TP1 5.1\TP1\obj\x86\Debug\TP1.PUNTOB.resources
+C:\Users\Lisandro\Desktop\Simulacion\TP1 5.1\TP1\obj\x86\Debug\TP1.PUNTOC.resources
+C:\Users\Lisandro\Desktop\Simulacion\TP1 5.1\TP1\obj\x86\Debug\TP1.vbproj.GenerateResource.Cache
+C:\Users\Yvo\Downloads\TP1 5.1\TP1 5.1\TP1\obj\x86\Debug\TP1.exe
+C:\Users\Yvo\Downloads\TP1 5.1\TP1 5.1\TP1\obj\x86\Debug\TP1.xml
+C:\Users\Yvo\Downloads\TP1 5.1\TP1 5.1\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\Yvo\Downloads\TP1 5.1\TP1 5.1\TP1\bin\Debug\TP1.exe
+C:\Users\Yvo\Downloads\TP1 5.1\TP1 5.1\TP1\bin\Debug\TP1.pdb
+C:\Users\Yvo\Downloads\TP1 5.1\TP1 5.1\TP1\bin\Debug\TP1.xml
+C:\Users\Yvo\Downloads\TP1 5.1\TP1 5.1\TP1\obj\x86\Debug\TP1.vbprojResolveAssemblyReference.cache
+C:\Users\Yvo\Downloads\TP1 5.1\TP1 5.1\TP1\obj\x86\Debug\TP1.Form1.resources
+C:\Users\Yvo\Downloads\TP1 5.1\TP1 5.1\TP1\obj\x86\Debug\TP1.Resources.resources
+C:\Users\Yvo\Downloads\TP1 5.1\TP1 5.1\TP1\obj\x86\Debug\TP1.PUNTO_A.resources
+C:\Users\Yvo\Downloads\TP1 5.1\TP1 5.1\TP1\obj\x86\Debug\TP1.PUNTOB.resources
+C:\Users\Yvo\Downloads\TP1 5.1\TP1 5.1\TP1\obj\x86\Debug\TP1.PUNTOC.resources
+C:\Users\Yvo\Downloads\TP1 5.1\TP1 5.1\TP1\obj\x86\Debug\TP1.vbproj.GenerateResource.Cache
+C:\Users\franc\Desktop\FACU2016\SIM\TP1 5.2\TP1 5.2\TP1 5.1\TP1\bin\Debug\TP1.exe
+C:\Users\franc\Desktop\FACU2016\SIM\TP1 5.2\TP1 5.2\TP1 5.1\TP1\bin\Debug\TP1.pdb
+C:\Users\franc\Desktop\FACU2016\SIM\TP1 5.2\TP1 5.2\TP1 5.1\TP1\bin\Debug\TP1.xml
+C:\Users\franc\Desktop\FACU2016\SIM\TP1 5.2\TP1 5.2\TP1 5.1\TP1\obj\x86\Debug\TP1.Form1.resources
+C:\Users\franc\Desktop\FACU2016\SIM\TP1 5.2\TP1 5.2\TP1 5.1\TP1\obj\x86\Debug\TP1.Resources.resources
+C:\Users\franc\Desktop\FACU2016\SIM\TP1 5.2\TP1 5.2\TP1 5.1\TP1\obj\x86\Debug\TP1.PUNTO_A.resources
+C:\Users\franc\Desktop\FACU2016\SIM\TP1 5.2\TP1 5.2\TP1 5.1\TP1\obj\x86\Debug\TP1.PUNTOB.resources
+C:\Users\franc\Desktop\FACU2016\SIM\TP1 5.2\TP1 5.2\TP1 5.1\TP1\obj\x86\Debug\TP1.PUNTOC.resources
+C:\Users\franc\Desktop\FACU2016\SIM\TP1 5.2\TP1 5.2\TP1 5.1\TP1\obj\x86\Debug\TP1.vbproj.GenerateResource.Cache
+C:\Users\franc\Desktop\FACU2016\SIM\TP1 5.2\TP1 5.2\TP1 5.1\TP1\obj\x86\Debug\TP1.exe
+C:\Users\franc\Desktop\FACU2016\SIM\TP1 5.2\TP1 5.2\TP1 5.1\TP1\obj\x86\Debug\TP1.xml
+C:\Users\franc\Desktop\FACU2016\SIM\TP1 5.2\TP1 5.2\TP1 5.1\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\franc\Desktop\FACU2016\SIM\TP1 5.2\TP1 5.2\TP1 5.1\TP1\obj\x86\Debug\TP1.vbprojResolveAssemblyReference.cache
+C:\Users\franc\Desktop\FACU2016\SIM\TP1 5.3\TP1 5.1\TP1\obj\x86\Debug\TP1.exe
+C:\Users\franc\Desktop\FACU2016\SIM\TP1 5.3\TP1 5.1\TP1\obj\x86\Debug\TP1.xml
+C:\Users\franc\Desktop\FACU2016\SIM\TP1 5.3\TP1 5.1\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\franc\Desktop\FACU2016\SIM\TP1 5.3\TP1 5.1\TP1\bin\Debug\TP1.exe
+C:\Users\franc\Desktop\FACU2016\SIM\TP1 5.3\TP1 5.1\TP1\bin\Debug\TP1.pdb
+C:\Users\franc\Desktop\FACU2016\SIM\TP1 5.3\TP1 5.1\TP1\bin\Debug\TP1.xml
+C:\Users\franc\Desktop\FACU2016\SIM\TP1 5.3\TP1 5.1\TP1\obj\x86\Debug\TP1.vbprojResolveAssemblyReference.cache
+C:\Users\franc\Desktop\FACU2016\SIM\TP1 5.3\TP1 5.1\TP1\obj\x86\Debug\TP1.Form1.resources
+C:\Users\franc\Desktop\FACU2016\SIM\TP1 5.3\TP1 5.1\TP1\obj\x86\Debug\TP1.Resources.resources
+C:\Users\franc\Desktop\FACU2016\SIM\TP1 5.3\TP1 5.1\TP1\obj\x86\Debug\TP1.PUNTO_A.resources
+C:\Users\franc\Desktop\FACU2016\SIM\TP1 5.3\TP1 5.1\TP1\obj\x86\Debug\TP1.PUNTOB.resources
+C:\Users\franc\Desktop\FACU2016\SIM\TP1 5.3\TP1 5.1\TP1\obj\x86\Debug\TP1.PUNTOC.resources
+C:\Users\franc\Desktop\FACU2016\SIM\TP1 5.3\TP1 5.1\TP1\obj\x86\Debug\TP1.vbproj.GenerateResource.Cache
+C:\Users\Martin\Desktop\SIM\TP1 5.6\TP1\bin\Debug\TP1.exe
+C:\Users\Martin\Desktop\SIM\TP1 5.6\TP1\bin\Debug\TP1.pdb
+C:\Users\Martin\Desktop\SIM\TP1 5.6\TP1\bin\Debug\TP1.xml
+C:\Users\Martin\Desktop\SIM\TP1 5.6\TP1\obj\x86\Debug\TP1.vbprojAssemblyReference.cache
+C:\Users\Martin\Desktop\SIM\TP1 5.6\TP1\obj\x86\Debug\TP1.Resources.resources
+C:\Users\Martin\Desktop\SIM\TP1 5.6\TP1\obj\x86\Debug\TP1.PUNTO_A.resources
+C:\Users\Martin\Desktop\SIM\TP1 5.6\TP1\obj\x86\Debug\TP1.PUNTOB.resources
+C:\Users\Martin\Desktop\SIM\TP1 5.6\TP1\obj\x86\Debug\TP1.PUNTOC.resources
+C:\Users\Martin\Desktop\SIM\TP1 5.6\TP1\obj\x86\Debug\TP1.vbproj.GenerateResource.cache
+C:\Users\Martin\Desktop\SIM\TP1 5.6\TP1\obj\x86\Debug\TP1.vbproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\SIM\TP1 5.6\TP1\obj\x86\Debug\TP1.exe
+C:\Users\Martin\Desktop\SIM\TP1 5.6\TP1\obj\x86\Debug\TP1.xml
+C:\Users\Martin\Desktop\SIM\TP1 5.6\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\Martin\Desktop\SIM\TP1 5.6\TP1\obj\x86\Debug\TP1.frm_menu.resources
+C:\Users\Martin\Desktop\SIM\TP1 5.6\TP1\bin\Debug\frm_menu.resx
+C:\Users\Martin\Desktop\SIM\TP1 5.6\TP1\bin\Debug\frm_menu.vb
+C:\Users\Martin\Desktop\SIM\TP1 5.6\TP1\bin\Debug\frm_menu.Designer.vb
+C:\Users\Martin\Downloads\PARTE_LOZA\PARTE_LOZA\TP1\obj\x86\Debug\TP1.vbprojAssemblyReference.cache
+C:\Users\Martin\Downloads\PARTE_LOZA\PARTE_LOZA\TP1\obj\x86\Debug\TP1.frm_menu.resources
+C:\Users\Martin\Downloads\PARTE_LOZA\PARTE_LOZA\TP1\obj\x86\Debug\TP1.Resources.resources
+C:\Users\Martin\Downloads\PARTE_LOZA\PARTE_LOZA\TP1\obj\x86\Debug\TP1.PUNTO_A.resources
+C:\Users\Martin\Downloads\PARTE_LOZA\PARTE_LOZA\TP1\obj\x86\Debug\TP1.PuntoB.resources
+C:\Users\Martin\Downloads\PARTE_LOZA\PARTE_LOZA\TP1\obj\x86\Debug\TP1.PUNTOC.resources
+C:\Users\Martin\Downloads\PARTE_LOZA\PARTE_LOZA\TP1\obj\x86\Debug\TP1.vbproj.GenerateResource.cache
+C:\Users\Martin\Downloads\PARTE_LOZA\PARTE_LOZA\TP1\obj\x86\Debug\TP1.vbproj.CoreCompileInputs.cache
+C:\Users\Martin\Downloads\PARTE_LOZA\PARTE_LOZA\TP1\obj\x86\Debug\TP1.exe
+C:\Users\Martin\Downloads\PARTE_LOZA\PARTE_LOZA\TP1\obj\x86\Debug\TP1.xml
+C:\Users\Martin\Downloads\PARTE_LOZA\PARTE_LOZA\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\Martin\Downloads\PARTE_LOZA\PARTE_LOZA\TP1\bin\Debug\frm_menu.resx
+C:\Users\Martin\Downloads\PARTE_LOZA\PARTE_LOZA\TP1\bin\Debug\frm_menu.vb
+C:\Users\Martin\Downloads\PARTE_LOZA\PARTE_LOZA\TP1\bin\Debug\frm_menu.Designer.vb
+C:\Users\Martin\Downloads\PARTE_LOZA\PARTE_LOZA\TP1\bin\Debug\TP1.exe
+C:\Users\Martin\Downloads\PARTE_LOZA\PARTE_LOZA\TP1\bin\Debug\TP1.pdb
+C:\Users\Martin\Downloads\PARTE_LOZA\PARTE_LOZA\TP1\bin\Debug\TP1.xml
+C:\Users\Martin\Desktop\SIM\TP1_PuntoA+PuntoB\TP1\bin\Debug\frm_menu.resx
+C:\Users\Martin\Desktop\SIM\TP1_PuntoA+PuntoB\TP1\bin\Debug\frm_menu.vb
+C:\Users\Martin\Desktop\SIM\TP1_PuntoA+PuntoB\TP1\bin\Debug\frm_menu.Designer.vb
+C:\Users\Martin\Desktop\SIM\TP1_PuntoA+PuntoB\TP1\bin\Debug\TP1.exe
+C:\Users\Martin\Desktop\SIM\TP1_PuntoA+PuntoB\TP1\bin\Debug\TP1.pdb
+C:\Users\Martin\Desktop\SIM\TP1_PuntoA+PuntoB\TP1\bin\Debug\TP1.xml
+C:\Users\Martin\Desktop\SIM\TP1_PuntoA+PuntoB\TP1\obj\x86\Debug\TP1.vbprojAssemblyReference.cache
+C:\Users\Martin\Desktop\SIM\TP1_PuntoA+PuntoB\TP1\obj\x86\Debug\TP1.frm_menu.resources
+C:\Users\Martin\Desktop\SIM\TP1_PuntoA+PuntoB\TP1\obj\x86\Debug\TP1.Resources.resources
+C:\Users\Martin\Desktop\SIM\TP1_PuntoA+PuntoB\TP1\obj\x86\Debug\TP1.PUNTO_A.resources
+C:\Users\Martin\Desktop\SIM\TP1_PuntoA+PuntoB\TP1\obj\x86\Debug\TP1.PuntoB.resources
+C:\Users\Martin\Desktop\SIM\TP1_PuntoA+PuntoB\TP1\obj\x86\Debug\TP1.PUNTOC.resources
+C:\Users\Martin\Desktop\SIM\TP1_PuntoA+PuntoB\TP1\obj\x86\Debug\TP1.vbproj.GenerateResource.cache
+C:\Users\Martin\Desktop\SIM\TP1_PuntoA+PuntoB\TP1\obj\x86\Debug\TP1.vbproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\SIM\TP1_PuntoA+PuntoB\TP1\obj\x86\Debug\TP1.exe
+C:\Users\Martin\Desktop\SIM\TP1_PuntoA+PuntoB\TP1\obj\x86\Debug\TP1.xml
+C:\Users\Martin\Desktop\SIM\TP1_PuntoA+PuntoB\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\JuanSoaje\Documents\SIM\TP1_PuntoA+PuntoB\TP1\bin\Debug\frm_menu.resx
+C:\Users\JuanSoaje\Documents\SIM\TP1_PuntoA+PuntoB\TP1\bin\Debug\frm_menu.vb
+C:\Users\JuanSoaje\Documents\SIM\TP1_PuntoA+PuntoB\TP1\bin\Debug\frm_menu.Designer.vb
+C:\Users\JuanSoaje\Documents\SIM\TP1_PuntoA+PuntoB\TP1\bin\Debug\TP1.exe
+C:\Users\JuanSoaje\Documents\SIM\TP1_PuntoA+PuntoB\TP1\bin\Debug\TP1.pdb
+C:\Users\JuanSoaje\Documents\SIM\TP1_PuntoA+PuntoB\TP1\bin\Debug\TP1.xml
+C:\Users\JuanSoaje\Documents\SIM\TP1_PuntoA+PuntoB\TP1\obj\x86\Debug\TP1.vbprojAssemblyReference.cache
+C:\Users\JuanSoaje\Documents\SIM\TP1_PuntoA+PuntoB\TP1\obj\x86\Debug\TP1.frm_menu.resources
+C:\Users\JuanSoaje\Documents\SIM\TP1_PuntoA+PuntoB\TP1\obj\x86\Debug\TP1.Resources.resources
+C:\Users\JuanSoaje\Documents\SIM\TP1_PuntoA+PuntoB\TP1\obj\x86\Debug\TP1.PUNTO_A.resources
+C:\Users\JuanSoaje\Documents\SIM\TP1_PuntoA+PuntoB\TP1\obj\x86\Debug\TP1.PuntoB.resources
+C:\Users\JuanSoaje\Documents\SIM\TP1_PuntoA+PuntoB\TP1\obj\x86\Debug\TP1.PUNTOC.resources
+C:\Users\JuanSoaje\Documents\SIM\TP1_PuntoA+PuntoB\TP1\obj\x86\Debug\TP1.vbproj.GenerateResource.cache
+C:\Users\JuanSoaje\Documents\SIM\TP1_PuntoA+PuntoB\TP1\obj\x86\Debug\TP1.vbproj.CoreCompileInputs.cache
+C:\Users\JuanSoaje\Documents\SIM\TP1_PuntoA+PuntoB\TP1\obj\x86\Debug\TP1.exe
+C:\Users\JuanSoaje\Documents\SIM\TP1_PuntoA+PuntoB\TP1\obj\x86\Debug\TP1.xml
+C:\Users\JuanSoaje\Documents\SIM\TP1_PuntoA+PuntoB\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\Martin\Downloads\TP1_ConstantinLozaMichelettiSoaje\TP1_ConstantinLozaMichelettiSoaje\TP1\bin\Debug\frm_menu.resx
+C:\Users\Martin\Downloads\TP1_ConstantinLozaMichelettiSoaje\TP1_ConstantinLozaMichelettiSoaje\TP1\bin\Debug\frm_menu.vb
+C:\Users\Martin\Downloads\TP1_ConstantinLozaMichelettiSoaje\TP1_ConstantinLozaMichelettiSoaje\TP1\bin\Debug\frm_menu.Designer.vb
+C:\Users\Martin\Downloads\TP1_ConstantinLozaMichelettiSoaje\TP1_ConstantinLozaMichelettiSoaje\TP1\bin\Debug\TP1.exe
+C:\Users\Martin\Downloads\TP1_ConstantinLozaMichelettiSoaje\TP1_ConstantinLozaMichelettiSoaje\TP1\bin\Debug\TP1.pdb
+C:\Users\Martin\Downloads\TP1_ConstantinLozaMichelettiSoaje\TP1_ConstantinLozaMichelettiSoaje\TP1\bin\Debug\TP1.xml
+C:\Users\Martin\Downloads\TP1_ConstantinLozaMichelettiSoaje\TP1_ConstantinLozaMichelettiSoaje\TP1\obj\x86\Debug\TP1.vbprojAssemblyReference.cache
+C:\Users\Martin\Downloads\TP1_ConstantinLozaMichelettiSoaje\TP1_ConstantinLozaMichelettiSoaje\TP1\obj\x86\Debug\TP1.frm_menu.resources
+C:\Users\Martin\Downloads\TP1_ConstantinLozaMichelettiSoaje\TP1_ConstantinLozaMichelettiSoaje\TP1\obj\x86\Debug\TP1.Resources.resources
+C:\Users\Martin\Downloads\TP1_ConstantinLozaMichelettiSoaje\TP1_ConstantinLozaMichelettiSoaje\TP1\obj\x86\Debug\TP1.PUNTO_A.resources
+C:\Users\Martin\Downloads\TP1_ConstantinLozaMichelettiSoaje\TP1_ConstantinLozaMichelettiSoaje\TP1\obj\x86\Debug\TP1.PuntoB.resources
+C:\Users\Martin\Downloads\TP1_ConstantinLozaMichelettiSoaje\TP1_ConstantinLozaMichelettiSoaje\TP1\obj\x86\Debug\TP1.PUNTOC.resources
+C:\Users\Martin\Downloads\TP1_ConstantinLozaMichelettiSoaje\TP1_ConstantinLozaMichelettiSoaje\TP1\obj\x86\Debug\TP1.vbproj.GenerateResource.cache
+C:\Users\Martin\Downloads\TP1_ConstantinLozaMichelettiSoaje\TP1_ConstantinLozaMichelettiSoaje\TP1\obj\x86\Debug\TP1.vbproj.CoreCompileInputs.cache
+C:\Users\Martin\Downloads\TP1_ConstantinLozaMichelettiSoaje\TP1_ConstantinLozaMichelettiSoaje\TP1\obj\x86\Debug\TP1.exe
+C:\Users\Martin\Downloads\TP1_ConstantinLozaMichelettiSoaje\TP1_ConstantinLozaMichelettiSoaje\TP1\obj\x86\Debug\TP1.xml
+C:\Users\Martin\Downloads\TP1_ConstantinLozaMichelettiSoaje\TP1_ConstantinLozaMichelettiSoaje\TP1\obj\x86\Debug\TP1.pdb
+G:\Descargas\TP1_ConstantinLozaMichelettiSoaje\TP1\bin\Debug\frm_menu.resx
+G:\Descargas\TP1_ConstantinLozaMichelettiSoaje\TP1\bin\Debug\frm_menu.vb
+G:\Descargas\TP1_ConstantinLozaMichelettiSoaje\TP1\bin\Debug\frm_menu.Designer.vb
+G:\Descargas\TP1_ConstantinLozaMichelettiSoaje\TP1\bin\Debug\TP1.exe
+G:\Descargas\TP1_ConstantinLozaMichelettiSoaje\TP1\bin\Debug\TP1.pdb
+G:\Descargas\TP1_ConstantinLozaMichelettiSoaje\TP1\bin\Debug\TP1.xml
+G:\Descargas\TP1_ConstantinLozaMichelettiSoaje\TP1\obj\x86\Debug\TP1.vbprojAssemblyReference.cache
+G:\Descargas\TP1_ConstantinLozaMichelettiSoaje\TP1\obj\x86\Debug\TP1.frm_menu.resources
+G:\Descargas\TP1_ConstantinLozaMichelettiSoaje\TP1\obj\x86\Debug\TP1.Resources.resources
+G:\Descargas\TP1_ConstantinLozaMichelettiSoaje\TP1\obj\x86\Debug\TP1.PUNTO_A.resources
+G:\Descargas\TP1_ConstantinLozaMichelettiSoaje\TP1\obj\x86\Debug\TP1.PuntoB.resources
+G:\Descargas\TP1_ConstantinLozaMichelettiSoaje\TP1\obj\x86\Debug\TP1.PUNTOC.resources
+G:\Descargas\TP1_ConstantinLozaMichelettiSoaje\TP1\obj\x86\Debug\TP1.vbproj.GenerateResource.cache
+G:\Descargas\TP1_ConstantinLozaMichelettiSoaje\TP1\obj\x86\Debug\TP1.vbproj.CoreCompileInputs.cache
+G:\Descargas\TP1_ConstantinLozaMichelettiSoaje\TP1\obj\x86\Debug\TP1.exe
+G:\Descargas\TP1_ConstantinLozaMichelettiSoaje\TP1\obj\x86\Debug\TP1.xml
+G:\Descargas\TP1_ConstantinLozaMichelettiSoaje\TP1\obj\x86\Debug\TP1.pdb
