@@ -117,20 +117,20 @@ Public Class PUNTOC
             lblV.Text = "Los grados de libertad son: " + (k - 1).ToString
             dtgvChiCuadrado.Rows.Add()
             dtgvChiCuadrado.Rows((fila + 1)).Cells(4).Value = "Xi cudrado Tabulado"
-            Dim xiTabulado As String = frm_menu.listaChipcuadrada(k - 2).ToString()
-            If xiTabulado Is "" Then ''si la posicion del vector no tiene valores, cambia el string xiTabulado
-                xiTabulado = "No hay valores para esos grados de libertad"
-                dtgvChiCuadrado.Rows((fila + 1)).Cells(5).Value = xiTabulado.ToString
-            Else
-                dtgvChiCuadrado.Rows((fila + 1)).Cells(5).Value = xiTabulado.ToString
-                If Convert.ToDouble(xiTabulado.ToString) > xCuadradoCalculado Then
-                    dtgvChiCuadrado.Rows((fila + 1)).Cells(3).Value = "Aceptado"
-                    dtgvChiCuadrado.Rows((fila + 1)).Cells(3).Style.BackColor = Color.Green
-                Else
-                    dtgvChiCuadrado.Rows((fila + 1)).Cells(3).Value = "Rechazado"
-                    dtgvChiCuadrado.Rows((fila + 1)).Cells(3).Style.BackColor = Color.Red
-                End If
-            End If
+            'Dim xiTabulado As String = frm_menu.listaChipcuadrada(k - 2).ToString()
+            'If xiTabulado Is "" Then ''si la posicion del vector no tiene valores, cambia el string xiTabulado
+            '    xiTabulado = "No hay valores para esos grados de libertad"
+            '    dtgvChiCuadrado.Rows((fila + 1)).Cells(5).Value = xiTabulado.ToString
+            'Else
+            '    dtgvChiCuadrado.Rows((fila + 1)).Cells(5).Value = xiTabulado.ToString
+            '    If Convert.ToDouble(xiTabulado.ToString) > xCuadradoCalculado Then
+            '        dtgvChiCuadrado.Rows((fila + 1)).Cells(3).Value = "No rechazado"
+            '        dtgvChiCuadrado.Rows((fila + 1)).Cells(3).Style.BackColor = Color.Green
+            '    Else
+            '        dtgvChiCuadrado.Rows((fila + 1)).Cells(3).Value = "Rechazado"
+            '        dtgvChiCuadrado.Rows((fila + 1)).Cells(3).Style.BackColor = Color.Red
+            '    End If
+            'End If
 
         End If
 
@@ -227,6 +227,32 @@ Public Class PUNTOC
     End Sub
 
     Private Sub Label4_Click(sender As Object, e As EventArgs)
+
+    End Sub
+
+    Private Sub BTNActualizarXi_Click(sender As Object, e As EventArgs) Handles BTNActualizarXi.Click
+
+        If (IsNumeric(XiTab.Text)) Then
+            dtgvChiCuadrado.Rows(dtgvChiCuadrado.Rows.Count - 2).Cells(5).Value = XiTab.Text
+
+            Dim chiTabulado As Double
+
+            Dim chiCalculado As Double
+
+            chiTabulado = Double.Parse(dtgvChiCuadrado.Rows(dtgvChiCuadrado.Rows.Count - 2).Cells(5).Value)
+
+            chiCalculado = Double.Parse(dtgvChiCuadrado.Rows(dtgvChiCuadrado.Rows.Count - 3).Cells(5).Value)
+
+            If (chiTabulado > chiCalculado) Then
+                dtgvChiCuadrado.Rows(dtgvChiCuadrado.Rows.Count - 2).Cells(3).Value = "No Rechazado"
+                dtgvChiCuadrado.Rows(dtgvChiCuadrado.Rows.Count - 2).Cells(3).Style.BackColor = Color.Green
+            Else
+                dtgvChiCuadrado.Rows(dtgvChiCuadrado.Rows.Count - 2).Cells(3).Value = "Rechazado"
+                dtgvChiCuadrado.Rows(dtgvChiCuadrado.Rows.Count - 2).Cells(3).Style.BackColor = Color.Red
+            End If
+        Else
+            MsgBox("Por favor, ingrese un número")
+        End If
 
     End Sub
 End Class

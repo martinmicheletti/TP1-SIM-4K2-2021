@@ -57,6 +57,9 @@ Partial Class PUNTOC
         Me.TabPage3 = New System.Windows.Forms.TabPage()
         Me.lst_numeros = New System.Windows.Forms.ListBox()
         Me.Label3 = New System.Windows.Forms.Label()
+        Me.BTNActualizarXi = New System.Windows.Forms.Button()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.XiTab = New System.Windows.Forms.TextBox()
         CType(Me.Chart1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.dtgvChiCuadrado, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.TabControl1.SuspendLayout()
@@ -344,12 +347,44 @@ Partial Class PUNTOC
         Me.Label3.TabIndex = 51
         Me.Label3.Text = "Test de Chi Cuadrado - Método congruencial mixto"
         '
+        'BTNActualizarXi
+        '
+        Me.BTNActualizarXi.BackColor = System.Drawing.SystemColors.GradientActiveCaption
+        Me.BTNActualizarXi.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.BTNActualizarXi.Location = New System.Drawing.Point(673, 106)
+        Me.BTNActualizarXi.Name = "BTNActualizarXi"
+        Me.BTNActualizarXi.Size = New System.Drawing.Size(156, 27)
+        Me.BTNActualizarXi.TabIndex = 57
+        Me.BTNActualizarXi.Text = "Actualizar Xi Tab"
+        Me.BTNActualizarXi.UseVisualStyleBackColor = False
+        '
+        'Label4
+        '
+        Me.Label4.AutoSize = True
+        Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label4.Location = New System.Drawing.Point(465, 114)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(75, 13)
+        Me.Label4.TabIndex = 56
+        Me.Label4.Text = "Xi Tabulado"
+        '
+        'XiTab
+        '
+        Me.XiTab.Anchor = System.Windows.Forms.AnchorStyles.Left
+        Me.XiTab.Location = New System.Drawing.Point(553, 110)
+        Me.XiTab.Name = "XiTab"
+        Me.XiTab.Size = New System.Drawing.Size(105, 20)
+        Me.XiTab.TabIndex = 55
+        '
         'PUNTOC
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.ButtonFace
         Me.ClientSize = New System.Drawing.Size(841, 553)
+        Me.Controls.Add(Me.BTNActualizarXi)
+        Me.Controls.Add(Me.Label4)
+        Me.Controls.Add(Me.XiTab)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.TabControl1)
         Me.Controls.Add(Me.btnEjemplo)
@@ -412,4 +447,7 @@ Partial Class PUNTOC
     Friend WithEvents TabPage3 As TabPage
     Friend WithEvents lst_numeros As ListBox
     Friend WithEvents Label3 As Label
+    Friend WithEvents BTNActualizarXi As Button
+    Friend WithEvents Label4 As Label
+    Friend WithEvents XiTab As TextBox
 End Class

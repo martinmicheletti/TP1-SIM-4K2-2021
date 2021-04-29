@@ -155,12 +155,30 @@ Public Class PuntoB
 
         dtgvChiCuadrado.Rows(dtgvChiCuadrado.Rows.Count - 2).Cells(5).Value = XiTab.Text
 
-        If (dtgvChiCuadrado.Rows(dtgvChiCuadrado.Rows.Count - 2).Cells(5).Value >= dtgvChiCuadrado.Rows(dtgvChiCuadrado.Rows.Count - 3).Cells(5).Value) Then
+        Dim chiTabulado As Double
+
+        Dim chiCalculado As Double
+
+        chiTabulado = Double.Parse(dtgvChiCuadrado.Rows(dtgvChiCuadrado.Rows.Count - 2).Cells(5).Value)
+
+        chiCalculado = Double.Parse(dtgvChiCuadrado.Rows(dtgvChiCuadrado.Rows.Count - 3).Cells(5).Value)
+
+        If (chiTabulado > chiCalculado) Then
             dtgvChiCuadrado.Rows(dtgvChiCuadrado.Rows.Count - 2).Cells(3).Value = "No Rechazado"
             dtgvChiCuadrado.Rows(dtgvChiCuadrado.Rows.Count - 2).Cells(3).Style.BackColor = Color.Green
         Else
             dtgvChiCuadrado.Rows(dtgvChiCuadrado.Rows.Count - 2).Cells(3).Value = "Rechazado"
             dtgvChiCuadrado.Rows(dtgvChiCuadrado.Rows.Count - 2).Cells(3).Style.BackColor = Color.Red
         End If
+
+
+    End Sub
+
+    Private Sub XiTab_TextChanged(sender As Object, e As EventArgs) Handles XiTab.TextChanged
+
+    End Sub
+
+    Private Sub Label4_Click(sender As Object, e As EventArgs) Handles Label4.Click
+
     End Sub
 End Class

@@ -102,7 +102,7 @@ Partial Class frm_menu
         '
         Me.Label4.AutoSize = True
         Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label4.Location = New System.Drawing.Point(515, 256)
+        Me.Label4.Location = New System.Drawing.Point(512, 256)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(96, 20)
         Me.Label4.TabIndex = 6
