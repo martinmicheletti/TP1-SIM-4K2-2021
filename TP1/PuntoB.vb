@@ -149,6 +149,7 @@ Public Class PuntoB
         graficarBTN.Enabled = True
         XiTab.Enabled = False
         XiTab.Text = 0
+        BTNActualizarXi.Enabled=False
     End Sub
 
     Private Sub ActualizarXi_Click(sender As Object, e As EventArgs) Handles BTNActualizarXi.Click

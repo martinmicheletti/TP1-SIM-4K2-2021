@@ -16,7 +16,7 @@
     End Sub
 
     Private Sub Form1_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
-        Label3.Text = "Integrantes: Aresu Barella, Barella, Bruna, Loza, Micheletti, Soruco"
+        ''Label3.Text = "Integrantes: Aresu Barella, Barella, Bruna, Loza, Micheletti, Soruco"
 
     End Sub
 

@@ -82,7 +82,7 @@ Partial Class frm_menu
         '
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(13, 39)
+        Me.Label2.Location = New System.Drawing.Point(13, 33)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(289, 20)
         Me.Label2.TabIndex = 4
@@ -92,11 +92,11 @@ Partial Class frm_menu
         '
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold)
-        Me.Label3.Location = New System.Drawing.Point(8, 258)
+        Me.Label3.Location = New System.Drawing.Point(14, 259)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(417, 17)
+        Me.Label3.Size = New System.Drawing.Size(435, 17)
         Me.Label3.TabIndex = 5
-        Me.Label3.Text = "Aresu Barella, Barella, Bruna, Loza - Micheletti - Soruco"
+        Me.Label3.Text = "Aresu Barella - Barella - Bruna - Loza - Micheletti - Soruco"
         '
         'Label4
         '
