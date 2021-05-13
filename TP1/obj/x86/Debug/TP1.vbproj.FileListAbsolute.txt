@@ -255,3 +255,20 @@ C:\Users\Eze\Desktop\TP1_AresuBarella-Barella-Bruna-Loza-Micheletti-Soruco-4K2\T
 C:\Users\Eze\Desktop\TP1_AresuBarella-Barella-Bruna-Loza-Micheletti-Soruco-4K2\TP1\obj\x86\Debug\TP1.exe
 C:\Users\Eze\Desktop\TP1_AresuBarella-Barella-Bruna-Loza-Micheletti-Soruco-4K2\TP1\obj\x86\Debug\TP1.xml
 C:\Users\Eze\Desktop\TP1_AresuBarella-Barella-Bruna-Loza-Micheletti-Soruco-4K2\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\Martin\Documents\UTN - FRC\2021\Simulacion\TP1-SIM-4K2-2021\TP1\bin\Debug\frm_menu.resx
+C:\Users\Martin\Documents\UTN - FRC\2021\Simulacion\TP1-SIM-4K2-2021\TP1\bin\Debug\frm_menu.vb
+C:\Users\Martin\Documents\UTN - FRC\2021\Simulacion\TP1-SIM-4K2-2021\TP1\bin\Debug\frm_menu.Designer.vb
+C:\Users\Martin\Documents\UTN - FRC\2021\Simulacion\TP1-SIM-4K2-2021\TP1\bin\Debug\TP1.exe
+C:\Users\Martin\Documents\UTN - FRC\2021\Simulacion\TP1-SIM-4K2-2021\TP1\bin\Debug\TP1.pdb
+C:\Users\Martin\Documents\UTN - FRC\2021\Simulacion\TP1-SIM-4K2-2021\TP1\bin\Debug\TP1.xml
+C:\Users\Martin\Documents\UTN - FRC\2021\Simulacion\TP1-SIM-4K2-2021\TP1\obj\x86\Debug\TP1.vbprojAssemblyReference.cache
+C:\Users\Martin\Documents\UTN - FRC\2021\Simulacion\TP1-SIM-4K2-2021\TP1\obj\x86\Debug\TP1.frm_menu.resources
+C:\Users\Martin\Documents\UTN - FRC\2021\Simulacion\TP1-SIM-4K2-2021\TP1\obj\x86\Debug\TP1.Resources.resources
+C:\Users\Martin\Documents\UTN - FRC\2021\Simulacion\TP1-SIM-4K2-2021\TP1\obj\x86\Debug\TP1.PUNTO_A.resources
+C:\Users\Martin\Documents\UTN - FRC\2021\Simulacion\TP1-SIM-4K2-2021\TP1\obj\x86\Debug\TP1.PuntoB.resources
+C:\Users\Martin\Documents\UTN - FRC\2021\Simulacion\TP1-SIM-4K2-2021\TP1\obj\x86\Debug\TP1.PUNTOC.resources
+C:\Users\Martin\Documents\UTN - FRC\2021\Simulacion\TP1-SIM-4K2-2021\TP1\obj\x86\Debug\TP1.vbproj.GenerateResource.cache
+C:\Users\Martin\Documents\UTN - FRC\2021\Simulacion\TP1-SIM-4K2-2021\TP1\obj\x86\Debug\TP1.vbproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\UTN - FRC\2021\Simulacion\TP1-SIM-4K2-2021\TP1\obj\x86\Debug\TP1.exe
+C:\Users\Martin\Documents\UTN - FRC\2021\Simulacion\TP1-SIM-4K2-2021\TP1\obj\x86\Debug\TP1.xml
+C:\Users\Martin\Documents\UTN - FRC\2021\Simulacion\TP1-SIM-4K2-2021\TP1\obj\x86\Debug\TP1.pdb

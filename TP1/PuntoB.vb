@@ -21,16 +21,21 @@ Public Class PuntoB
             BTNActualizarXi.Enabled = True
 
             '' Inicializo las variables
-
+            Dim cantidadIntervalosReales As Double = 0
             Dim numAleatorio As Double
             Dim random As New Random()
             Dim intervalos As Double
+            Dim medidaIntervalos As Double
+            Dim tamañoIntervaloAcumulado As Double
+            Dim filasAcumuladas As Double = 0
+            Dim desdeInt As Double = 0
             Dim n As Integer = Ntxt.Text
             Dim lista(0 To (n - 1)) As Double
             Dim count As Integer = 0
             Dim sum As Integer
             Dim k As Integer = Ktxt.Text ''numero de intervalos equiprobables entre 0 y 1
-            Dim med As Double
+            Dim tamañoIntervalo As Double
+            Dim grados_libertad As Double
             Dim xCuadradoTabulado As Double = 0 ''variable que asumira el rol de xi cuadrado tabulado
             Dim xCuadradoCalculado As Double = 0 ''variable que asumira el rol de xi cuadrado para ser comparado con la tabla
 
@@ -46,65 +51,133 @@ Public Class PuntoB
             Next
 
             intervalos = 1 / k ''probabilidad de cada intevalo
-            med = n / k ''MEDIDA DE LOS INTERVALOS'' = frecuencia esperada
+
+            medidaIntervalos = n / k ''MEDIDA DE LOS INTERVALOS'' = frecuencia esperada
+
+            tamañoIntervalo = 1 / k
 
             Dim fila As Double = 0
             intervalos = Math.Round(intervalos, 3)
             ''ESTABLECE EL VALOR REDONDEADO DE LOS INTERVALOS EN 3 DIGITOS''
 
-            For i As Double = 0 To (0.99) Step intervalos ''recorremos los intervalos saltando de forma entera, pero el intervalo es decimal.
-                ''de esta forma buscamos los numeros en la lista que pertenecen a cada intervalo para sumarlos a la muestra
-                sum = 0 ''contador de frecuencia , que sera al final el ciclo la frecuencia observada de dicho valor
-                For count = 0 To (n - 1) ''iteramos desde 0 hasta la cantidad de muestras solicitadas
-                    If i <= lista(count) Then ''si el numero pseudo-aleaotrio es mayor que el limite inferior del intervalo 
-                        If lista(count) < (i + intervalos) Then ''y menor que el limite superior del intervalo
-                            sum = sum + 1 ''incremento de la frecuencia de aparicion en dicho intervalo
-                        End If
+
+            Dim potencia As Double = 0
+            Dim resta As Double = 0
+            Dim division As Double = 0
+            Dim mediaUniforme = 0.5
+
+            Dim varianzaUniforme = Math.Pow(1, 2) / 12
+
+            '' lleno el vector de fo 
+            '' For principal, recorre cada fila por cada intervalo
+            Dim i As Double
+            For i = 1 To k Step 1
+                Dim hastaInt = desdeInt + tamañoIntervalo + tamañoIntervaloAcumulado
+                Dim fo = 0
+                Dim fe = 0
+
+                Dim marcaClase = (hastaInt + desdeInt) / 2
+
+                For j As Double = 0 To n - 1 Step 1
+                    '' Si el valor se encuentra entre los limites
+                    '' no incluye el limite superior
+                    If lista(j) < hastaInt And lista(j) >= desdeInt Then
+                        fo += 1
                     End If
-                Next count
+                Next
 
-                i = Math.Round(i, 3)
-                med = Math.Round(med, 3)
-                Chart1.Series("Observado").Points.AddXY((i + intervalos), sum) ''graficamos el valor observado en el intervalo i
-                Chart1.Series("Esperado").Points.AddXY((i + intervalos), med) '' y graficamos el valor del esperado en el intervalo i
+                '' Si la frecuencia observada es menor a 5,
+                '' se suma con otro intervalo
+                If fo < 5 Then
+                    filasAcumuladas += 1
+                    tamañoIntervaloAcumulado += tamañoIntervalo
+                Else
 
-                '' Calculo de Chi Cuadrado
+                    ''Dim funcionDensidad = 1 / (1 - 0)
 
-                dtgvChiCuadrado.Rows.Add() ''agregamos una fila por cada ciclo
-                dtgvChiCuadrado.Rows((fila)).Cells(0).Value = i.ToString() + " - " + (i + intervalos).ToString ''agregamos el rango del intervalo a la grilla
-                dtgvChiCuadrado.Rows((fila)).Cells(1).Value = sum.ToString ''agregamos la frecuencia observada
-                dtgvChiCuadrado.Rows((fila)).Cells(2).Value = med.ToString ''agregamos frecuencia esperada
+                    fe = (Math.Round((Convert.ToDouble(tamañoIntervalo + tamañoIntervaloAcumulado)), 4)) * n
 
-                Dim fdif As Double = sum - med
-                fdif = Math.Round(fdif, 3)
-                dtgvChiCuadrado.Rows((fila)).Cells(3).Value = fdif.ToString ''agregamos diferencia de frecuencias
-                Dim difCuadrado As Double = fdif * fdif
-                difCuadrado = Math.Round(difCuadrado, 3)
-                dtgvChiCuadrado.Rows((fila)).Cells(4).Value = difCuadrado.ToString ''agregamos diferencia al cuadrado
-                Dim xCuadradoI As Double = difCuadrado / med ''calculo ((fo - fe)^2 )/ fe
-                xCuadradoI = Math.Round(xCuadradoI, 3)
-                dtgvChiCuadrado.Rows((fila)).Cells(5).Value = xCuadradoI.ToString ''agreagamos xicuadrado
+                    resta = fo - fe
 
-                xCuadradoCalculado += xCuadradoI ''voy realizando sumatoria de ((fo - fe)^2 )/ fe
-                fila += 1
+                    potencia = Math.Round(Convert.ToDouble(Math.Pow(Convert.ToDouble(resta), 2)), 4)
+
+                    division = Math.Round((potencia / fe), 4)
+
+                    ''dt.Rows.Add(cantidadIntervalosReales + 1, desdeInt, hastaInt, marcaClase, fo, fe, resta, potencia, division)
+
+                    ''agregamos una fila por cada ciclo
+                    dtgvChiCuadrado.Rows.Add()
+
+                    ''agregamos el rango del intervalo a la grilla
+                    dtgvChiCuadrado.Rows(cantidadIntervalosReales).Cells(0).Value = desdeInt.ToString() + " - " + hastaInt.ToString()
+
+                    ''agregamos la frecuencia observada
+                    dtgvChiCuadrado.Rows(cantidadIntervalosReales).Cells(1).Value = fo.ToString()
+
+                    ''agregamos frecuencia esperada
+                    dtgvChiCuadrado.Rows(cantidadIntervalosReales).Cells(2).Value = fe.ToString()
+
+                    ''graficamos el valor observado en el intervalo i
+                    Chart1.Series("Observado").Points.AddXY(marcaClase, fo)
+
+                    '' y graficamos el valor del esperado en el intervalo i
+                    Chart1.Series("Esperado").Points.AddXY(marcaClase, fe)
+
+                    Dim diferencia As Double = fo - fe
+                    diferencia = Math.Round(diferencia, 4)
+
+                    ''agregamos diferencia de frecuencias
+                    dtgvChiCuadrado.Rows(cantidadIntervalosReales).Cells(3).Value = diferencia.ToString
+
+                    Dim difCuadrado As Double = diferencia * diferencia
+                    difCuadrado = Math.Round(difCuadrado, 4)
+
+                    ''agregamos diferencia al cuadrado
+                    dtgvChiCuadrado.Rows(cantidadIntervalosReales).Cells(4).Value = difCuadrado.ToString
+
+                    ''calculo ((fo - fe)^2 )/ fe
+                    Dim xCuadradoI As Double = difCuadrado / fe
+
+                    xCuadradoI = Math.Round(xCuadradoI, 4)
+                    ''agreagamos xicuadrado
+                    dtgvChiCuadrado.Rows(cantidadIntervalosReales).Cells(5).Value = xCuadradoI.ToString
+
+                    ''voy realizando sumatoria de ((fo - fe)^2 )/ fe
+                    xCuadradoCalculado += xCuadradoI
+
+                    desdeInt += (tamañoIntervalo + tamañoIntervaloAcumulado)
+
+                    filasAcumuladas = 0
+                    tamañoIntervaloAcumulado = 0
+                    cantidadIntervalosReales += 1
+
+                    grados_libertad = (Convert.ToDouble(cantidadIntervalosReales) - 1)
+
+                End If
+
             Next
+
             dtgvChiCuadrado.Rows.Add()
-            dtgvChiCuadrado.Rows((fila)).Cells(4).Value = "Xi Cuadrado Calculado"
-            dtgvChiCuadrado.Rows((fila)).Cells(5).Value = xCuadradoCalculado.ToString ''agregamos el xi cuadrado a la grilla
+            dtgvChiCuadrado.Rows(cantidadIntervalosReales).Cells(4).Value = "Xi Cuadrado Calculado"
+
+            ''agregamos el xi cuadrado a la grilla
+            dtgvChiCuadrado.Rows(cantidadIntervalosReales).Cells(5).Value = xCuadradoCalculado.ToString
 
             '' Grafico de frecuencias
-
             Chart1.Series("Observado").ChartType = SeriesChartType.Column
             Chart1.Series("Observado").XValueType = ChartValueType.Double
             Chart1.Series("Observado").YValueType = ChartValueType.Int32
+
             Chart1.ChartAreas(0).AxisX.Interval = intervalos
+
             Chart1.Series("Observado").IsVisibleInLegend = True
 
-            lblV.Text = "Grados de libertad: " + (k - 1).ToString
-            dtgvChiCuadrado.Rows.Add()
-            dtgvChiCuadrado.Rows((fila + 1)).Cells(4).Value = "Xi Cudrado Tabulado"
-        End If
+            lblV.Text = "Grados de libertad: " + grados_libertad.ToString
 
+            dtgvChiCuadrado.Rows.Add()
+
+            dtgvChiCuadrado.Rows((cantidadIntervalosReales + 1)).Cells(4).Value = "Xi Cudrado Tabulado"
+        End If
     End Sub
     Private Function logicaValidacion() As Boolean
         If (Ntxt.Text = "" Or Ktxt.Text = "") Then
