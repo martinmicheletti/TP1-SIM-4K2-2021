@@ -31,8 +31,6 @@ Public Class PuntoB
             Dim desdeInt As Double = 0
             Dim n As Integer = Ntxt.Text
             Dim lista(0 To (n - 1)) As Double
-            Dim count As Integer = 0
-            Dim sum As Integer
             Dim k As Integer = Ktxt.Text ''numero de intervalos equiprobables entre 0 y 1
             Dim tamañoIntervalo As Double
             Dim grados_libertad As Double
