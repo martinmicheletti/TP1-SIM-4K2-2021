@@ -272,3 +272,20 @@ C:\Users\Martin\Documents\UTN - FRC\2021\Simulacion\TP1-SIM-4K2-2021\TP1\obj\x86
 C:\Users\Martin\Documents\UTN - FRC\2021\Simulacion\TP1-SIM-4K2-2021\TP1\obj\x86\Debug\TP1.exe
 C:\Users\Martin\Documents\UTN - FRC\2021\Simulacion\TP1-SIM-4K2-2021\TP1\obj\x86\Debug\TP1.xml
 C:\Users\Martin\Documents\UTN - FRC\2021\Simulacion\TP1-SIM-4K2-2021\TP1\obj\x86\Debug\TP1.pdb
+G:\Descargas\Proyectos\SIMTP1\TP1\bin\Debug\frm_menu.resx
+G:\Descargas\Proyectos\SIMTP1\TP1\bin\Debug\frm_menu.vb
+G:\Descargas\Proyectos\SIMTP1\TP1\bin\Debug\frm_menu.Designer.vb
+G:\Descargas\Proyectos\SIMTP1\TP1\bin\Debug\TP1.exe
+G:\Descargas\Proyectos\SIMTP1\TP1\bin\Debug\TP1.pdb
+G:\Descargas\Proyectos\SIMTP1\TP1\bin\Debug\TP1.xml
+G:\Descargas\Proyectos\SIMTP1\TP1\obj\x86\Debug\TP1.vbprojAssemblyReference.cache
+G:\Descargas\Proyectos\SIMTP1\TP1\obj\x86\Debug\TP1.frm_menu.resources
+G:\Descargas\Proyectos\SIMTP1\TP1\obj\x86\Debug\TP1.Resources.resources
+G:\Descargas\Proyectos\SIMTP1\TP1\obj\x86\Debug\TP1.PUNTO_A.resources
+G:\Descargas\Proyectos\SIMTP1\TP1\obj\x86\Debug\TP1.PuntoB.resources
+G:\Descargas\Proyectos\SIMTP1\TP1\obj\x86\Debug\TP1.PUNTOC.resources
+G:\Descargas\Proyectos\SIMTP1\TP1\obj\x86\Debug\TP1.vbproj.GenerateResource.cache
+G:\Descargas\Proyectos\SIMTP1\TP1\obj\x86\Debug\TP1.vbproj.CoreCompileInputs.cache
+G:\Descargas\Proyectos\SIMTP1\TP1\obj\x86\Debug\TP1.exe
+G:\Descargas\Proyectos\SIMTP1\TP1\obj\x86\Debug\TP1.xml
+G:\Descargas\Proyectos\SIMTP1\TP1\obj\x86\Debug\TP1.pdb
